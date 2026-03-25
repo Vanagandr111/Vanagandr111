@@ -70,7 +70,7 @@ small systems with clear behavior
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border-bottom: 1px solid #2B2B2B;">
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="https://avatars.githubusercontent.com/u/7464010?s=200&v=4" width="80" alt="Ministry of Digital Development" style="border-radius: 10px;">
+      <img src="./assets/logos/mincifr.png" width="80" alt="Ministry of Digital Development" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">C# Competency Certificate</h3>
@@ -84,7 +84,7 @@ small systems with clear behavior
 
   <tr style="border-bottom: 1px solid #2B2B2B;">
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="https://avatars.githubusercontent.com/u/10134443?s=200&v=4" width="80" alt="Netology" style="border-radius: 10px;">
+      <img src="./assets/logos/netologi.jpg" width="80" alt="Netology" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Java Developer</h3>

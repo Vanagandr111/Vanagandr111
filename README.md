@@ -65,13 +65,51 @@ small systems with clear behavior
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanagandr111&layout=compact&theme=transparent&title_color=CB6B48&text_color=EDE7D9&border_color=2B2B2B" alt="Top languages" />
 </p>
 
-## Credentials and Education
+## 🏅 Education and Certification
 
-| Credential | Organization | Details |
-| --- | --- | --- |
-| C# Competency Certificate | National IT Competency Assessment System, Ministry of Digital Development | Confirmed on `03.07.2025`, unique ID `218303`, C# theory and practice, base level |
-| Java Developer Program | Netology LLC | Series and number `PP 15155`, issue date `03.07.2023`, registration number `12995`, specialization: `Java Developer` |
-| Web and Multimedia Applications Developer | Kemerovo State University | Series and number `4310 0385756`, issue date `14.07.2023`, registration number `562-k`, specialization: `Web and Multimedia Applications Developer` |
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border-bottom: 1px solid #2B2B2B;">
+    <td align="center" width="100px" style="padding: 10px; border: none;">
+      <img src="https://avatars.githubusercontent.com/u/7464010?s=200&v=4" width="80" alt="Ministry of Digital Development" style="border-radius: 10px;">
+    </td>
+    <td style="padding: 10px 20px; border: none;">
+      <h3 style="margin: 0; color: #EDE7D9;">C# Competency Certificate</h3>
+      <p style="margin: 5px 0; color: #EDE7D9;"><strong>National IT Competency Assessment System | Ministry of Digital Development</strong></p>
+      <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
+        Theory and practice, base level. Unique ID: 218303<br>
+        <em>Confirmed on: 03.07.2025 · Valid until: 03.07.2026</em>
+      </p>
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #2B2B2B;">
+    <td align="center" width="100px" style="padding: 10px; border: none;">
+      <img src="https://avatars.githubusercontent.com/u/10134443?s=200&v=4" width="80" alt="Netology" style="border-radius: 10px;">
+    </td>
+    <td style="padding: 10px 20px; border: none;">
+      <h3 style="margin: 0; color: #EDE7D9;">Java Developer</h3>
+      <p style="margin: 5px 0; color: #EDE7D9;"><strong>Netology LLC</strong></p>
+      <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
+        Series and number: PP 15155. Registration number: 12995<br>
+        <em>Issue date: 03.07.2023</em>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100px" style="padding: 10px; border: none;">
+      <img src="https://avatars.githubusercontent.com/u/38749964?s=200&v=4" width="80" alt="Kemerovo State University" style="border-radius: 10px;">
+    </td>
+    <td style="padding: 10px 20px; border: none;">
+      <h3 style="margin: 0; color: #EDE7D9;">Web and Multimedia Applications Developer</h3>
+      <p style="margin: 5px 0; color: #EDE7D9;"><strong>Kemerovo State University</strong></p>
+      <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
+        Series and number: 4310 0385756. Registration number: 562-k<br>
+        <em>Issue date: 14.07.2023</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Current Direction
 

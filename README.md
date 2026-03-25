@@ -114,9 +114,9 @@ small systems with clear behavior
 <sub>Primary non-IT academic track, included here as a research note:</sub>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr>
+  <tr style="border-bottom: 1px solid #2B2B2B;">
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="./assets/logos/fiz.jpg" width="80" alt="Federal Research Center of Coal and Coal Chemistry" style="border-radius: 10px;">
+      <img src="./assets/logos/kemguLOGO.jpg" width="80" alt="Kemerovo State University" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Fundamental and Applied Chemistry</h3>
@@ -125,10 +125,18 @@ small systems with clear behavior
         Series and number: 104234 0137788. Registration number: 9/7<br>
         <em>Issue date: 14.07.2023</em>
       </p>
-      <p style="margin: 8px 0 0; color: #A6A6A6; font-size: 0.9em;">
-        Postgraduate track: Federal Research Center of Coal and Coal Chemistry, Siberian Branch of the Russian Academy of Sciences<br>
-        Chemical technology of fuel and high-energy substances, higher education - postgraduate<br>
-        <em>Document number: 090909 | Issue date: 01.09.2020 | Order dated 21.08.2024 No. 53-a</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px" style="padding: 10px; border: none;">
+      <img src="./assets/logos/fiz.jpg" width="80" alt="Federal Research Center of Coal and Coal Chemistry" style="border-radius: 10px;">
+    </td>
+    <td style="padding: 10px 20px; border: none;">
+      <h3 style="margin: 0; color: #EDE7D9;">Chemical Technology of Fuel and High-Energy Substances</h3>
+      <p style="margin: 5px 0; color: #EDE7D9;"><strong>Federal Research Center of Coal and Coal Chemistry, Siberian Branch of the Russian Academy of Sciences</strong></p>
+      <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
+        Higher education - postgraduate. Document number: 090909<br>
+        <em>Issue date: 01.09.2020 | Order dated 21.08.2024 No. 53-a</em>
       </p>
     </td>
   </tr>

@@ -65,6 +65,14 @@ small systems with clear behavior
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanagandr111&layout=compact&theme=transparent&title_color=CB6B48&text_color=EDE7D9&border_color=2B2B2B" alt="Top languages" />
 </p>
 
+## Credentials and Education
+
+| Credential | Organization | Details |
+| --- | --- | --- |
+| C# Competency Certificate | National IT Competency Assessment System, Ministry of Digital Development | Confirmed on `03.07.2025`, unique ID `218303`, C# theory and practice, base level |
+| Java Developer Program | Netology LLC | Series and number `PP 15155`, issue date `03.07.2023`, registration number `12995`, specialization: `Java Developer` |
+| Web and Multimedia Applications Developer | Kemerovo State University | Series and number `4310 0385756`, issue date `14.07.2023`, registration number `562-k`, specialization: `Web and Multimedia Applications Developer` |
+
 ## Current Direction
 
 - Turning old coursework into a cleaner archive instead of profile noise

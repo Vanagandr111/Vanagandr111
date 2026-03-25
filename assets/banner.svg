@@ -27,12 +27,12 @@
   <path d="M72 286C156 242 238 238 312 248C398 260 466 308 560 304C658 300 734 216 838 195C938 175 1026 197 1116 270" stroke="#D46A4A" stroke-opacity="0.28" stroke-width="2"/>
 
   <g opacity="0.35">
-    <path d="M106 70H458" stroke="#EDE7D9" stroke-opacity="0.18"/>
-    <path d="M106 102H390" stroke="#EDE7D9" stroke-opacity="0.18"/>
-    <path d="M106 134H316" stroke="#EDE7D9" stroke-opacity="0.18"/>
+    <path d="M106 70H430" stroke="#EDE7D9" stroke-opacity="0.18"/>
+    <path d="M106 102H372" stroke="#EDE7D9" stroke-opacity="0.18"/>
+    <path d="M106 134H302" stroke="#EDE7D9" stroke-opacity="0.18"/>
   </g>
 
-  <rect x="80" y="70" width="414" height="112" rx="20" fill="#0F0F0F" fill-opacity="0.38" stroke="#E9D8A6" stroke-opacity="0.18"/>
+  <rect x="80" y="70" width="374" height="112" rx="20" fill="#0F0F0F" fill-opacity="0.38" stroke="#E9D8A6" stroke-opacity="0.18"/>
   <text x="108" y="116" fill="#F4F1EA" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="4">PROFILE</text>
   <text x="108" y="155" fill="#F4F1EA" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Vanagandr111</text>
 
@@ -49,8 +49,8 @@
     <text x="34" y="142" fill="#F4F1EA" font-family="Consolas, monospace" font-size="18">iterate()</text>
   </g>
 
-  <g transform="translate(712 246)">
-    <rect width="400" height="54" rx="16" fill="url(#accent)"/>
+  <g transform="translate(760 246)">
+    <rect width="352" height="54" rx="16" fill="url(#accent)"/>
     <text x="20" y="35" fill="#151515" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">github.com/Vanagandr111</text>
   </g>
 </svg>

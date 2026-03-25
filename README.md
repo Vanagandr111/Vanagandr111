@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=700&color=F4F1EA&center=true&vCenter=true&width=540&lines=Vanagandr111;Python+%7C+Java+%7C+Automation;Building+tools%2C+services%2C+and+experiments" alt="Typing intro" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=700&color=F4F1EA&center=true&vCenter=true&width=760&lines=Vanagandr111;Python+%7C+Java+%7C+Automation;Building+tools%2C+services%2C+and+experiments" alt="Typing intro" />
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Vanagandr111 banner" width="100%" />

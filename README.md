@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Tooling-CB6B48?style=for-the-badge&labelColor=111111" alt="Focus badge" />
   </a>
   <a href="https://github.com/Vanagandr111">
-    <img src="https://img.shields.io/badge/Stack-Python%20%E2%80%A2%20Java%20%E2%80%A2%20C%23-E9D8A6?style=for-the-badge&labelColor=111111&color=7C8C6B" alt="Stack badge" />
+    <img src="https://img.shields.io/badge/Stack-Python%20%E2%80%A2%20Java%20%E2%80%A2%20C%23%20%E2%80%A2%20JavaScript-E9D8A6?style=for-the-badge&labelColor=111111&color=7C8C6B" alt="Stack badge" />
   </a>
   <a href="https://github.com/Vanagandr111?tab=projects">
     <img src="https://img.shields.io/badge/Mode-Building%20In%20Public-4F6D7A?style=for-the-badge&labelColor=111111" alt="Mode badge" />
@@ -24,7 +24,10 @@ Right now the center of gravity is:
 
 - Python for utilities, bots, processing pipelines, and applied tooling
 - Java for coursework, backend fundamentals, and service-oriented exercises
-- C# for management-style desktop and business logic experiments
+- C# for desktop applications, internal tools, and business logic
+- JavaScript plus HTML/CSS for web interfaces and frontend work
+- Scientific software and data-oriented development
+- Game development experiments and engine-side prototyping
 
 ## Selected Work
 
@@ -44,6 +47,9 @@ developer tooling
 CLI workflows
 data processing
 backend exercises
+scientific software
+game development
+web interfaces
 small systems with clear behavior
 ```
 
@@ -59,9 +65,11 @@ small systems with clear behavior
 - Turning old coursework into a cleaner archive instead of profile noise
 - Keeping the account focused on stronger public projects
 - Growing a portfolio around useful software rather than random dumps
+- Expanding into scientific software, web development, and game dev
 
 ## Profile Notes
 
 - Private coursework is cleaned up and separated from the main public portfolio
 - Public repositories are the curated part of the profile
 - More polished projects will replace legacy experiments over time
+- Core stack includes Python, Java, C#, JavaScript, HTML, and CSS

@@ -32,12 +32,12 @@
     <path d="M106 134H254" stroke="#EDE7D9" stroke-opacity="0.18"/>
   </g>
 
-  <rect x="80" y="70" width="244" height="112" rx="20" fill="#0F0F0F" fill-opacity="0.38" stroke="#E9D8A6" stroke-opacity="0.18"/>
+  <rect x="80" y="70" width="320" height="112" rx="20" fill="#0F0F0F" fill-opacity="0.38" stroke="#E9D8A6" stroke-opacity="0.18"/>
   <text x="108" y="116" fill="#F4F1EA" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="4">PROFILE</text>
-  <text x="108" y="155" fill="#F4F1EA" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Vanagandr111</text>
+  <text x="108" y="155" fill="#F4F1EA" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Vanagandr111</text>
 
   <text x="80" y="244" fill="#F4F1EA" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Code, Tools, Experiments.</text>
-  <text x="82" y="286" fill="#E9D8A6" font-family="Consolas, monospace" font-size="20">Python  |  Java  |  Automation  |  Backend</text>
+  <text x="82" y="286" fill="#E9D8A6" font-family="Consolas, monospace" font-size="18">Python  |  Java  |  C#  |  JS  |  Web  |  Scientific  |  Game Dev</text>
 
   <g transform="translate(856 74)">
     <rect width="256" height="156" rx="24" fill="#0F0F0F" fill-opacity="0.34" stroke="#F1D6A8" stroke-opacity="0.14"/>
@@ -49,8 +49,8 @@
     <text x="34" y="142" fill="#F4F1EA" font-family="Consolas, monospace" font-size="18">iterate()</text>
   </g>
 
-  <g transform="translate(858 246)">
-    <rect width="252" height="54" rx="16" fill="url(#accent)"/>
-    <text x="28" y="35" fill="#151515" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">github.com/Vanagandr111</text>
+  <g transform="translate(800 246)">
+    <rect width="312" height="54" rx="16" fill="url(#accent)"/>
+    <text x="22" y="35" fill="#151515" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">github.com/Vanagandr111</text>
   </g>
 </svg>

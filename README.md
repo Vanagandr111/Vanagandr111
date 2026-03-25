@@ -70,7 +70,7 @@ small systems with clear behavior
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border-bottom: 1px solid #2B2B2B;">
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="./assets/logos/mincifr.png" width="80" alt="Ministry of Digital Development" style="border-radius: 10px;">
+      <img src="./assets/logos/mincifr.png" width="88" alt="Ministry of Digital Development" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">C# Competency Certificate</h3>
@@ -84,7 +84,7 @@ small systems with clear behavior
 
   <tr style="border-bottom: 1px solid #2B2B2B;">
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="./assets/logos/netologi.jpg" width="80" alt="Netology" style="border-radius: 10px;">
+      <img src="./assets/logos/netologi.jpg" width="88" alt="Netology" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Java Developer</h3>
@@ -98,7 +98,7 @@ small systems with clear behavior
 
   <tr>
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="./assets/logos/kemguLOGO.jpg" width="80" alt="Kemerovo State University" style="border-radius: 10px;">
+      <img src="./assets/logos/kemguLOGO.jpg" width="88" alt="Kemerovo State University" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Web and Multimedia Applications Developer</h3>
@@ -116,7 +116,7 @@ small systems with clear behavior
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border-bottom: 1px solid #2B2B2B;">
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="./assets/logos/kemguLOGO.jpg" width="80" alt="Kemerovo State University" style="border-radius: 10px;">
+      <img src="./assets/logos/kemguLOGO.jpg" width="88" alt="Kemerovo State University" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Fundamental and Applied Chemistry</h3>
@@ -129,7 +129,7 @@ small systems with clear behavior
   </tr>
   <tr>
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="./assets/logos/fiz.jpg" width="80" alt="Federal Research Center of Coal and Coal Chemistry" style="border-radius: 10px;">
+      <img src="./assets/logos/fiz.jpg" width="88" alt="Federal Research Center of Coal and Coal Chemistry" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Chemical Technology of Fuel and High-Energy Substances</h3>

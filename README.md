@@ -76,7 +76,7 @@ small systems with clear behavior
       <h3 style="margin: 0; color: #EDE7D9;">C# Competency Certificate</h3>
       <p style="margin: 5px 0; color: #EDE7D9;"><strong>National IT Competency Assessment System | Ministry of Digital Development</strong></p>
       <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
-        Theory and practice, base level. Unique ID: 218303<br>
+        Theory and practice. Unique ID: 218303<br>
         <em>Confirmed on: 03.07.2025 · Valid until: 03.07.2026</em>
       </p>
     </td>

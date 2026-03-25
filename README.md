@@ -20,6 +20,8 @@
 
 I build practical software: data tools, automation, backend services, and small experiments that eventually grow into products.
 
+I also work with AI-oriented pipelines: prompt design, model behavior shaping, fine-tuning workflows, and systems built around interactive character logic.
+
 Right now the center of gravity is:
 
 - Python for utilities, bots, processing pipelines, and applied tooling
@@ -28,6 +30,7 @@ Right now the center of gravity is:
 - JavaScript plus HTML/CSS for web interfaces and frontend work
 - Scientific software and data-oriented development
 - Game development experiments and engine-side prototyping
+- AI workflows, model adaptation, and fine-tuning
 
 ## Selected Work
 
@@ -50,6 +53,8 @@ backend exercises
 scientific software
 game development
 web interfaces
+AI systems
+fine-tuning workflows
 small systems with clear behavior
 ```
 
@@ -66,6 +71,11 @@ small systems with clear behavior
 - Keeping the account focused on stronger public projects
 - Growing a portfolio around useful software rather than random dumps
 - Expanding into scientific software, web development, and game dev
+- Pushing deeper into AI systems, behavior tuning, and model-driven interactions
+
+## Current Private Work
+
+Right now I am working hard on a private AI project: training and shaping my own model for roleplay-focused game interactions, where the AI acts as an NPC-style system with stronger character behavior, better dialogue consistency, and more immersive response flow.
 
 ## Profile Notes
 
@@ -73,3 +83,4 @@ small systems with clear behavior
 - Public repositories are the curated part of the profile
 - More polished projects will replace legacy experiments over time
 - Core stack includes Python, Java, C#, JavaScript, HTML, and CSS
+- I actively explore AI, fine-tuning, interactive systems, and game-oriented character logic

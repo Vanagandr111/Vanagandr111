@@ -65,7 +65,7 @@ small systems with clear behavior
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanagandr111&layout=compact&theme=transparent&title_color=CB6B48&text_color=EDE7D9&border_color=2B2B2B" alt="Top languages" />
 </p>
 
-## 🏅 Education and Certification
+## Education and Certification
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border-bottom: 1px solid #2B2B2B;">
@@ -77,7 +77,7 @@ small systems with clear behavior
       <p style="margin: 5px 0; color: #EDE7D9;"><strong>National IT Competency Assessment System | Ministry of Digital Development</strong></p>
       <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
         Theory and practice. Unique ID: 218303<br>
-        <em>Confirmed on: 03.07.2025 · Valid until: 03.07.2026</em>
+        <em>Confirmed on: 03.07.2025 | Valid until: 03.07.2026</em>
       </p>
     </td>
   </tr>
@@ -98,7 +98,7 @@ small systems with clear behavior
 
   <tr>
     <td align="center" width="100px" style="padding: 10px; border: none;">
-      <img src="https://avatars.githubusercontent.com/u/38749964?s=200&v=4" width="80" alt="Kemerovo State University" style="border-radius: 10px;">
+      <img src="./assets/logos/kemguLOGO.jpg" width="80" alt="Kemerovo State University" style="border-radius: 10px;">
     </td>
     <td style="padding: 10px 20px; border: none;">
       <h3 style="margin: 0; color: #EDE7D9;">Web and Multimedia Applications Developer</h3>
@@ -106,6 +106,29 @@ small systems with clear behavior
       <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
         Series and number: 4310 0385756. Registration number: 562-k<br>
         <em>Issue date: 14.07.2023</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<sub>Primary non-IT academic track, included here as a research note:</sub>
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="100px" style="padding: 10px; border: none;">
+      <img src="./assets/logos/fiz.jpg" width="80" alt="Federal Research Center of Coal and Coal Chemistry" style="border-radius: 10px;">
+    </td>
+    <td style="padding: 10px 20px; border: none;">
+      <h3 style="margin: 0; color: #EDE7D9;">Fundamental and Applied Chemistry</h3>
+      <p style="margin: 5px 0; color: #EDE7D9;"><strong>Kemerovo State University</strong></p>
+      <p style="margin: 0; color: #A6A6A6; font-size: 0.9em;">
+        Series and number: 104234 0137788. Registration number: 9/7<br>
+        <em>Issue date: 14.07.2023</em>
+      </p>
+      <p style="margin: 8px 0 0; color: #A6A6A6; font-size: 0.9em;">
+        Postgraduate track: Federal Research Center of Coal and Coal Chemistry, Siberian Branch of the Russian Academy of Sciences<br>
+        Chemical technology of fuel and high-energy substances, higher education - postgraduate<br>
+        <em>Document number: 090909 | Issue date: 01.09.2020 | Order dated 21.08.2024 No. 53-a</em>
       </p>
     </td>
   </tr>
